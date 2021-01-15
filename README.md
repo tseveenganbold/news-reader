@@ -1,4 +1,11 @@
 # Getting Started with Create React App
+Project app that reads news from Currents API. 
+Used technologies:
+React JS
+Currents API
+Alan AI
+Material UI
+Styled components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
